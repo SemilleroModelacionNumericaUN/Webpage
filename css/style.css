@@ -1,0 +1,50 @@
+
+body {
+  font: 400 15px 'Roboto', sans-serif;
+  line-height: 1.8;
+  color: #818181;
+}
+
+h2 {
+  font-size: 18px;
+  text-transform: uppercase;
+  color: #303030;
+  font-weight: 600;
+  margin-bottom: 30px;
+  margin-top: 30px;
+}
+
+h4 {
+  font-size: 17px;
+  line-height: 1.375em;
+  color: #303030;
+  font-weight: 400;
+  margin-bottom: 6px;
+  margin-top: 10px;
+}
+
+.mijumbotron {
+  background-color: #303030;
+  color: #f6f6f6;
+  padding: 120px 50px;
+}
+
+.container-fluid {
+  padding: 60px 50px;
+}
+
+.bg-grey {
+  background-color: #f6f6f6;
+}
+
+.navbar {
+  margin: 0;
+  background-color: #303030;
+  z-index: 9999;
+  border: 0;
+}
+
+.navbar-nav li a:hover, .navbar-nav li.active a {
+  color: #303030 !important;
+  background-color: #f6f6f6 !important;
+}
