@@ -29,30 +29,32 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/SemilleroModelacionNumericaUN/Webpage">
+    <img src="img/logo_negro.png" >
+    <!-- alt="Logo" width="80" height="80"> -->
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">Pagina Web del Semillero de Modelación Numérica UN
+ </h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    <!-- An awesome README template to jumpstart your projects!
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    · -->
+    <a href="https://github.com/SemilleroModelacionNumericaUN/Webpage/issues">Reportar problema</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+    <a href="https://github.com/SemilleroModelacionNumericaUN/Webpage/pulls">Pull Request</a>
   </p>
 </p>
 
 
 
 <!-- TABLE OF CONTENTS -->
-## Table of Contents
+## Tabla de Contenidos
 
 - [Table of Contents](#table-of-contents)
 - [About The Project](#about-the-project)
@@ -190,7 +192,9 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=flat-square
+[contributors-shield]: https://img.shields.io/github/contributors/SemilleroModelacionNumericaUN/Webpage
+
+<!-- https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=flat-square -->
 [contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=flat-square
 [forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
