@@ -63,6 +63,7 @@
 - [Tabla de Contenidos](#tabla-de-contenidos)
 - [Acerca del Proyecto](#acerca-del-proyecto)
   - [Lenguajes de desarrollo](#lenguajes-de-desarrollo)
+- [Cómo ver la página web en el celular](#cómo-ver-la-página-web-en-el-celular)
 - [Contacto](#contacto)
 - [Licencia](#licencia)
 <!-- - [Getting Started](#getting-started) -->
@@ -98,6 +99,38 @@ Es un espacio extracurricular de formación académica en el que participan estu
 * [CSS](https://www.w3schools.com/css/default.asp)
 
 
+## Cómo ver la página web en el celular
+
+Utilizando el paquete `live-server` de `npm`.
+
+```bash
+npm install -g live-server
+```
+Una vez instalado, debemos conocer la dirección **IP privada** de nuestro computador, esto lo logramos escribiendo:
+
+En bash:
+```bash
+ifconfig
+```
+En Windows:
+```bash
+ipconfig
+```
+
+Una vez obtenida la direccion **IP privada** de nuestro computador, debemos navegar en la terminal hasta el directorio en el cual se encuentra `index.html` y escribir
+
+```bash
+live-server
+```
+
+Hecho esto,  vamos a nuestro navegador en el celular y escribimos la dirección `IP_privada:Numero_puerto` y listo.
+
+- Ejemplo: **192.168.0.11:8080**
+
+> - El `Numero_puerto` aparece cuando ejecutamos el comando `live-server` en la terminal.
+> - La `IP_privada` **NO** es la que aparece cuando ejecutamos `live-server`.
+
+Para más información: [https://stackoverflow.com/questions/54238402/how-do-i-view-my-html-webpage-on-my-phone](https://stackoverflow.com/questions/54238402/how-do-i-view-my-html-webpage-on-my-phone)
 
 <!-- GETTING STARTED -->
 <!-- ## Getting Started
